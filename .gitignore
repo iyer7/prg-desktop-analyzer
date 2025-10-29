@@ -1,0 +1,15 @@
+# PyCharm project files
+.idea/
+*.iml
+__pycache__/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# macOS system files
+.DS_Store
+
+# Temporary files (if any created by logic)
+temp_files/
