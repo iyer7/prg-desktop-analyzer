@@ -143,4 +143,4 @@ This repository contains the *source code*. To create the easy-to-use `.exe` fil
 
 ## 6. Author
 
-* **[Your Name / Suraj Ramesh Iyer]** - *Initial Work & Development* - [Link to Your GitHub Profile]
+* **[Suraj Ramesh Iyer]** - *Initial Work & Development* - [https://github.com/iyer7]
